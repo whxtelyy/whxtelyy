@@ -1,5 +1,4 @@
 <div style="background-color: #0d1117; color: #c9d1d9; padding: 15px; border-radius: 10px; font-size: 0.95em;">
----
   
 [![Typing Banner](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=58a6ff&width=450&lines=Hello+👋)](https://git.io/typing-svg)
 
