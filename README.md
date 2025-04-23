@@ -3,7 +3,7 @@
 [![Typing Banner](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=58a6ff&width=450&lines=Hello+👋)](https://git.io/typing-svg)
 
 ---
-### 📫 <span style="color: #58a6ff">Contact Me</span>  
+### 📫 <span style="color: #58a6ff">My contacts</span>  
 <p align="left">
   <a href="https://t.me/whxtelyy" target="_blank">
     <img src="https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=161b22" height="28">
