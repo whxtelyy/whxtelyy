@@ -10,7 +10,10 @@
 
 ### 🛠️ <span style="color: #58a6ff">Технологии</span>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,docker,git&theme=dark&perline=4" />
+  <a href="https://www.python.org" target="_blank"><img src="https://skillicons.dev/icons?i=python" title="Python" alt="Python"></a>
+  <a href="https://fastapi.tiangolo.com" target="_blank"><img src="https://skillicons.dev/icons?i=fastapi" title="FastAPI" alt="FastAPI"></a>
+  <a href="https://www.docker.com" target="_blank"><img src="https://skillicons.dev/icons?i=docker" title="Docker" alt="Docker"></a>
+  <a href="https://git-scm.com" target="_blank"><img src="https://skillicons.dev/icons?i=git" title="Git" alt="Git"></a>
 </p>
 
 ---
@@ -18,7 +21,7 @@
 ### 🗂️ Проекты
 | Проект | Описание | Технологии |
 |--------|----------|------------|
-| [Timer-Reminder](https://github.com/whxtelyy/timer-reminder) | Простой таймер-напоминалка | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python) |
+| [Timer-Reminder](https://github.com/whxtelyy/timer-reminder) | Простой таймер-напоминалка | <a href="https://www.python.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" title="Python" alt="Python"></a> |
 
 ---
 
@@ -32,4 +35,3 @@
 [![Telegram](https://img.shields.io/badge/Telegram-whxtelyy-26A5E4?style=flat-square&logo=telegram&logoColor=white&labelColor=161b22)](https://t.me/whxtelyy)
 
 </div>
-
