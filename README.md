@@ -21,7 +21,7 @@
 ### 🗂️ Проекты
 | Проект | Описание | Технологии |
 |--------|----------|------------|
-| [Timer-Reminder](https://github.com/whxtelyy/timer-reminder) | Простой таймер-напоминалка | <a href="https://www.python.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" title="Python" alt="Python"></a> |
+| [Timer-Reminder](https://github.com/whxtelyy/timer-reminder) | Простой таймер-напоминалка | [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=161b22)](https://www.python.org) |
 
 ---
 
