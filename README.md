@@ -7,12 +7,12 @@
 ### 🛠️ Технологии, которые я изучаю и применяю:  
 
 **Backend:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=black)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=black)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)  
 
 **Инструменты:**  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=black) 
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) 
 
 --------------------------------------------------------------------------------
 ### 🚀 Мои проекты:  
@@ -24,7 +24,7 @@
 --------------------------------------------------------------------------------
 ### 📈 Моя активность: 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=whxtelyy&show_icons=true&theme=black) 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=whxtelyy&show_icons=true&theme=dark) 
 
 --------------------------------------------------------------------------------
 ### 📫 Контакты:  
