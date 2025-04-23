@@ -2,10 +2,6 @@
 
 [![Typing Banner](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&color=58a6ff¢er=true&vCenter=true&width=1000&lines=Привет+👋,+я+Saveliy;Python+разработчик;Люблю+чистый+код;И+интересные+задачи)](https://git.io/typing-svg)
 
-<p align="center">
-  <img src="https://readme-3d-profile.vercel.app/profile?username=whxtelyy&bg_color=0d1117&text_color=c9d1d9" width="200">
-</p>
-
 ![Wave Divider](https://capsule-render.vercel.app/api?type=wave&color=58a6ff&height=2&section=header)
 
 💻 **Пишу на:** <span style="color: #79c0ff">Python</span>  
