@@ -21,15 +21,10 @@
 
 ---
 
-### 🚀 <span style="color: #58a6ff">Мои проекты</span>  
-
-<div style="background-color: #161b22; padding: 15px; border-radius: 8px; margin: 10px 0;">
-
-#### 1. Таймер-напоминалка на Python  
-[![Timer-Reminder](https://github-readme-stats.vercel.app/api/pin/?username=whxtelyy&repo=timer-reminder&theme=dark)](https://github.com/whxtelyy/timer-reminder)  
-<span style="color: #8b949e">Простой консольный таймер с уведомлениями</span>
-
-</div>
+### 🗂️ Проекты
+| Проект | Описание | Технологии |
+|--------|----------|------------|
+| [Timer-Reminder](https://github.com/whxtelyy/timer-reminder) | Простой таймер-напоминалка | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python) |
 
 ---
 
@@ -45,4 +40,3 @@
 
 </div>
 
-![Line Animation](https://github.com/whxtelyy/whxtelyy/blob/output/github-contribution-grid-snake.svg)
