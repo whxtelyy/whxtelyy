@@ -27,14 +27,16 @@
 
 ---
 ### 📊 <span style="color: #58a6ff">Активность</span>
-<div style="display: flex; gap: 10px; align-items: center;">
-  <div style="flex: 1; min-height: 180px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=whxtelyy&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=79c0ff&hide=issues&line_height=24" style="width: 25%; height: 40%; object-fit: contain;">
+<div style="display: flex; gap: 10px; align-items: stretch;">
+  <div style="flex: 1;">
+    <img src="https://github-readme-stats.vercel.app/api?username=whxtelyy&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=79c0ff&hide=issues&line_height=24" style="height: 100%; width: 100%; object-fit: contain;">
   </div>
-  <div style="flex: 1; min-height: 180px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whxtelyy&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" style="width: 25%; height: 40%; object-fit: contain;">
+  <div style="flex: 1;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whxtelyy&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" style="height: 100%; width: 100%; object-fit: contain;">
   </div>
 </div>
+
+
 
 ---
 <p align="left">
