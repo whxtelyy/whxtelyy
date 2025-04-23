@@ -27,28 +27,12 @@
 
 ---
 ### 📊 <span style="color: #58a6ff">Активность</span>
-<div style="display: flex; gap: 15px; align-items: center; margin: 15px 0;">
-  <div style="flex: 1.5; background: #161b22; padding: 15px; border-radius: 8px;">
-    <h4 style="margin-top: 0; color: #58a6ff;">Статистика</h4>
-    <div style="display: flex; flex-direction: column; gap: 8px;">
-      <div><span style="color: #79c0ff;">★ Звезды:</span> 0</div>
-      <div><span style="color: #79c0ff;">↗ Коммиты (2025):</span> 32</div>
-      <div><span style="color: #79c0ff;">↻ PRs:</span> 0</div>
-      <div><span style="color: #79c0ff;">👥 Контрибуции:</span> 0</div>
-    </div>
+<div style="display: flex; gap: 10px; align-items: center;">
+  <div style="flex: 1; min-height: 180px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=whxtelyy&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=79c0ff&hide=issues&line_height=24" style="width: 100%; height: 100%; object-fit: contain;">
   </div>
-  
-  <div style="flex: 1; background: #161b22; padding: 15px; border-radius: 8px;">
-    <h4 style="margin-top: 0; color: #58a6ff;">Языки</h4>
-    <div style="display: flex; align-items: center; gap: 10px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="24">
-      <div style="flex-grow: 1;">
-        <div style="background: #0d1117; height: 10px; border-radius: 5px;">
-          <div style="background: #3776AB; width: 100%; height: 100%; border-radius: 5px;"></div>
-        </div>
-        <div style="text-align: right; font-size: 0.9em; margin-top: 5px;">Python 100%</div>
-      </div>
-    </div>
+  <div style="flex: 1; min-height: 180px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whxtelyy&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" style="width: 100%; height: 100%; object-fit: contain;">
   </div>
 </div>
 
