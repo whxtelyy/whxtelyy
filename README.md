@@ -44,3 +44,5 @@
 [![Telegram](https://img.shields.io/badge/Telegram-whxtelyy-26A5E4?style=flat-square&logo=telegram&logoColor=white&labelColor=161b22)](https://t.me/whxtelyy)
 
 </div>
+
+![Line Animation](https://github.com/whxtelyy/whxtelyy/blob/output/github-contribution-grid-snake.svg)
