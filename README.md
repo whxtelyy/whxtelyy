@@ -3,7 +3,7 @@
 [![Typing Banner](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&color=58a6ff¢er=true&vCenter=true&width=1000&lines=Привет+👋)](https://git.io/typing-svg)
 
 ### 📫 <span style="color: #58a6ff">Контакты</span>  
-[![Telegram](https://img.shields.io/badge/Telegram-whxtelyy-26A5E4?style=flat-square&logo=telegram&logoColor=white&labelColor=161b22)](https://t.me/whxtelyy)
+[![Telegram](https://img.shields.io/badge/Telegram-whxtelyy-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=161b22&scale=1.5)](https://t.me/whxtelyy)
 
 ---
 
@@ -35,6 +35,6 @@
 ---
 
 ### 👀 <span style="color: #58a6ff">Просмотры профиля</span>  
-![Profile Views](https://komarev.com/ghpvc/?username=whxtelyy&color=58a6ff&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=whxtelyy&color=58a6ff&style=for-the-badge)
 
 </div>
