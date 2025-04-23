@@ -1,16 +1,31 @@
-## Hi there 👋
+### Hi there 👋
+--------------------------------------------------------------------------------
+💻 Пишу на: Python
+📚 Изучаю: FastAPI, Docker, Git, Asynsio, БД
 
-<!--
-**whxtelyy/whxtelyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+--------------------------------------------------------------------------------
+### 🛠️ Технологии, которые я изучаю и применяю:  
 
-Here are some ideas to get you started:
+**Backend:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Инструменты:**  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) 
+
+--------------------------------------------------------------------------------
+### 🚀 Мои проекты:  
+1. Простой таймер-напоминалка на Pyhton
+[![Timer-Reminder](https://github-readme-stats.vercel.app/api/pin/?username=whxtelyy&repo=timer-reminder)](https://github.com/whxtelyy/timer-reminder)
+
+...
+--------------------------------------------------------------------------------
+### 📈 Моя активность: 
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=whxtelyy&show_icons=true&theme=default) 
+
+--------------------------------------------------------------------------------
+### 📫 Контакты:  
+
+- Telegram: [@whxtelyy](https://t.me/whxtelyy)
