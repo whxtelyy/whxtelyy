@@ -19,7 +19,7 @@
 ### 🗂️ Проекты
 | Проект | Описание | Технологии |
 |--------|----------|------------|
-| [Timer-Reminder](https://github.com/whxtelyy/timer-reminder) | Простой таймер-напоминалка | [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0d1117)](https://www.python.org) |
+| [Timer-Reminder](https://github.com/whxtelyy/timer-reminder) | Простой таймер-напоминалка | [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=161b22)](https://www.python.org) |
 
 ---
 ### 📈 <span style="color: #58a6ff">Активность</span>  
