@@ -9,15 +9,10 @@
 
 ---
 
-### 🛠️ <span style="color: #58a6ff">Технологии</span>  
-
-**Backend:**  
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=161b22)](https://python.org)
-[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=161b22)](https://fastapi.tiangolo.com)  
-
-**Инструменты:**  
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=161b22)](https://git-scm.com)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=161b22)](https://docker.com)
+### 🛠️ Технологии
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,docker,git&theme=dark&perline=4" />
+</p>
 
 ---
 
