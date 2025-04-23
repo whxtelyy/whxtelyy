@@ -29,7 +29,7 @@
 ### 📊 <span style="color: #58a6ff">Активность</span>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=whxtelyy&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=79c0ff&hide=issues&line_height=24" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whxtelyy&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" width="46%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whxtelyy&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" width="45%">
 </p>
 
 ---
