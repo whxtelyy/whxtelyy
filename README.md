@@ -27,8 +27,9 @@
 
 ---
 ### 📊 <span style="color: #58a6ff">GitHub Stats</span>
-![Stats](https://github-readme-stats.vercel.app/api?username=whxtelyy&hide=stars,prs,issues&show_icons=true&theme=dark&hide_border=false)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whxtelyy&layout=compact&theme=dark&hide_border=false)
+| Статистика | Языки |
+|------------|-------|
+| ![Stats](https://github-readme-stats.vercel.app/api?username=whxtelyy&hide=contribs&theme=dark) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whxtelyy&layout=compact&theme=dark) |
 
 ---
 <p align="left">
