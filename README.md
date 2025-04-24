@@ -33,8 +33,6 @@
 </p>
 
 ---
-<p align="left">
   ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=whxtelyy.whxtelyy)
-</p>
 
 </div>
