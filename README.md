@@ -27,7 +27,6 @@
 
 ---
 ### 📊 <span style="color: #58a6ff">GitHub Stats</span>
-<p align="center">
   ![Stats](https://github-readme-stats.vercel.app/api?username=whxtelyy&cache_seconds=1800&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=79c0ff&hide=issues&line_height=24&hide_title=true" width="54%")
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whxtelyy&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" width="41%">
 </p>
