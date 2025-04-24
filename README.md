@@ -28,13 +28,10 @@
 ---
 ### 📊 <span style="color: #58a6ff">GitHub Stats</span>
 
-|                              Statistics                              |                 Languages                |
-|----------------------------------------------------------------------|------------------------------------------|
+| Statistics | Languages |
+|------------|-----------|
 | ![Stats](https://github-readme-stats.vercel.app/api?username=whxtelyy&hide=contribs&theme=dark&card_width=500) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whxtelyy&layout=compact&theme=dark&card_width=420) |
 
 ---
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=whxtelyy&color=004799&style=for-the-badge">
-</p>
-
-</div>
+  <img src="https://komarev.com/ghpvc/?
