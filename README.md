@@ -33,8 +33,6 @@
 </p>
 
 ---
-<p align="left">
-  ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=whxtelyy.whxtelyy)
-</p>
+  ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/whxtelyy&title=Profile%20Views)
 
 </div>
