@@ -34,7 +34,7 @@
 
 ---
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=whxtelyy&color=58a6ff&style=for-the-badge">
+  <img src="https://komarev.com/ghpvc/?username=whxtelyy&color=004799&style=for-the-badge">
 </p>
 
 </div>
