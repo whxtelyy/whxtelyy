@@ -27,14 +27,8 @@
 
 ---
 ### 📊 <span style="color: #58a6ff">GitHub Stats</span>
-<div style="display: flex; gap: 10px; align-items: flex-start;">
-  <div style="height: 180px; overflow: hidden;">
-    ![Stats](https://github-readme-stats.vercel.app/api?username=whxtelyy&hide=stars,prs,issues&show_icons=true&theme=dark&hide_border=false)
-  </div>
-  <div style="height: 180px; overflow: hidden;">
-    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whxtelyy&layout=compact&theme=dark&hide_border=false)
-  </div>
-</div>
+![Stats](https://github-readme-stats.vercel.app/api?username=whxtelyy&hide=stars,prs,issues&show_icons=true&theme=dark&hide_border=false)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whxtelyy&layout=compact&theme=dark&hide_border=false)
 
 ---
 <p align="left">
