@@ -34,7 +34,7 @@
 
 ---
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=whxtelyy&color=58a6ff&style=for-the-badge">
+  ![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=whxtelyy.whxtelyy&left_color=blue&right_color=green)
 </p>
 
 </div>
