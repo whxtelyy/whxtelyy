@@ -30,7 +30,7 @@
 
 |                                     Statistics                                     |                                     Languages                                      |
 |------------------------------------------------------------------------------------|------------------------------------------------------------------------------------|
-| ![Stats](https://github-readme-stats.vercel.app/api?username=whxtelyy&hide=contribs&theme=dark&card_width=600) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whxtelyy&layout=compact&theme=dark&card_width=600) |
+| ![Stats](https://github-readme-stats.vercel.app/api?username=whxtelyy&hide=contribs&theme=dark&card_width=600) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whxtelyy&layout=compact&theme=dark&card_width=400) |
 
 ---
 <p align="left">
