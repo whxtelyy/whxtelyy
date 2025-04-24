@@ -34,7 +34,7 @@
 
 ---
 <p align="left">
-  <img src="https://countapi.xyz/hit/whxtelyy/unique-visitors?color=58a6ff&style=for-the-badge&label=Profile+Views">
+  <img src="https://api.visitorbadge.io/api/combined?user=whxtelyy&label=PROFILE+VIEWS&countColor=%2358a6ff&style=for-the-badge&labelColor=%230d1117">
 </p>
 
 </div>
