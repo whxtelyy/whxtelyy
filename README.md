@@ -34,7 +34,7 @@
 
 ---
 <p align="left">
-  <img src="https://img.shields.io/badge/dynamic/json?label=PROFILE+VIEWS&query=count&url=https://api.github.com/repos/whxtelyy/whxtelyy/issues/1&color=58a6ff&style=for-the-badge&labelColor=0d1117">
+  ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=whxtelyy.whxtelyy)
 </p>
 
 </div>
