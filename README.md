@@ -27,8 +27,8 @@
 
 ---
 ### 📊 <span style="color: #58a6ff">GitHub Stats</span>
-| Статистика | Языки |
-|------------|-------|
+| Statistics | Languages |
+|------------|-----------|
 | ![Stats](https://github-readme-stats.vercel.app/api?username=whxtelyy&hide=contribs&theme=dark) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whxtelyy&layout=compact&theme=dark&card_width=500) |
 
 ---
