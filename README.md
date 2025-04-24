@@ -34,7 +34,7 @@
 
 ---
 <p align="left">
-  ![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=whxtelyy.whxtelyy&left_color=blue&right_color=green)
+  <img src="https://countapi.xyz/hit/whxtelyy/unique-visitors?color=58a6ff&style=for-the-badge&label=Profile+Views">
 </p>
 
 </div>
