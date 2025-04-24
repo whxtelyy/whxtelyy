@@ -28,14 +28,8 @@
 ---
 ### 📊 <span style="color: #58a6ff">GitHub Stats</span>
 ![Stats](https://github-readme-stats.vercel.app/api?username=whxtelyy&cache_seconds=1800&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whxtelyy&cache_seconds=1800&layout=compact&theme=dark)
-<style>
-  .big-button {
-    width: 250px;
-    height: 60px;
-    font-size: 18px;
-  }
-</style>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whxtelyy&cache_seconds=1800&layout=compact&theme=dark&width=250)
+
 
 <a href="#" class="big-button">Большая кнопка</a>
 
