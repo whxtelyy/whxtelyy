@@ -23,7 +23,7 @@
 ### 🗂️ <span style="color: #58a6ff">My Projects</span>
 | Project | Description | Technologies |
 |---------|-------------|--------------|
-| [Timer-Reminder](https://github.com/whxtelyy/timer-reminder) | Simple timer with notifications | [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=161b22)](https://www.python.org) |
+| [Timer-Reminder](https://github.com/whxtelyy/timer-reminder) | Async timer with notifications | [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=161b22)](https://www.python.org) |
 
 ---
 ### 📊 <span style="color: #58a6ff">GitHub Stats</span>
