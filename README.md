@@ -23,7 +23,6 @@
 ### 🗂️ <span style="color: #58a6ff">My Projects</span>
 | Project | Description | Technologies |
 |---------|-------------|--------------|
-| [Timer-Reminder](https://github.com/whxtelyy/timer-reminder) | Async timer with notifications | [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=161b22)](https://www.python.org) |
 | [Log Analyzer](https://github.com/whxtelyy/log_analyzer) | REST API for managing and analyzing logs | [![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=161b22)](https://fastapi.tiangolo.com) [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=161b22)](https://www.python.org) |
 
 ---
