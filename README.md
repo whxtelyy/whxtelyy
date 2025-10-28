@@ -23,16 +23,18 @@
 ### 🗂️ <span style="color: #58a6ff">My Projects</span>
 | Project | Description | Technologies |
 |---------|-------------|--------------|
-| [Timer-Reminder](https://github.com/whxtelyy/timer-reminder) | Simple timer with notifications | [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=161b22)](https://www.python.org) |
+| [Log Analyzer](https://github.com/whxtelyy/log_analyzer) | REST API for managing and analyzing logs | [![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=161b22)](https://fastapi.tiangolo.com) [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=161b22)](https://www.python.org) |
 
 ---
 ### 📊 <span style="color: #58a6ff">GitHub Stats</span>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=whxtelyy&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=79c0ff&hide=issues&line_height=24&hide_title=true" width="54%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whxtelyy&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" width="41%">
-</p>
+
+| Statistics | Languages |
+|------------|-----------|
+| ![Stats](https://github-readme-stats.vercel.app/api?username=whxtelyy&hide=contribs&theme=dark&cache_seconds=306) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whxtelyy&layout=compact&theme=dark&cache_seconds=300&card_width=420) |
 
 ---
-  ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/whxtelyy&title=Profile%20Views)
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=whxtelyy&color=58a6ff&style=for-the-badge">
+</p>
 
 </div>
