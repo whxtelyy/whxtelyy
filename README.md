@@ -11,15 +11,6 @@
 </p>
 
 ---
-### 💻 <span style="color: #58a6ff">Skills</span>
-<p align="left">
-  <img src="https://img.shields.io/badge/-Python_(Basic)-3776AB?style=flat-square&logo=python&logoColor=white" height="22" title="Basic knowledge">
-  <img src="https://img.shields.io/badge/-FastAPI_(Learning)-009688?style=flat-square&logo=fastapi&logoColor=white" height="22" title="Currently learning">
-  <img src="https://img.shields.io/badge/-Docker_(Learning)-2496ED?style=flat-square&logo=docker&logoColor=white" height="22" title="Basic knowledge">
-  <img src="https://img.shields.io/badge/-Git_(Basic)-F05032?style=flat-square&logo=git&logoColor=white" height="22" title="Basic knowledge">
-</p>
-
----
 ### 🗂️ <span style="color: #58a6ff">My Projects</span>
 | Project | Description | Technologies |
 |---------|-------------|--------------|
