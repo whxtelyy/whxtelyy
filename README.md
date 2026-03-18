@@ -19,7 +19,7 @@
 
 ### 📂 Основные проекты
 
-#### 💎 [Payment Distribution Service](https://github.com/whxtelyy/payment-distribution-service/tree/dev)]
+#### 💎 [Payment Distribution Service](https://github.com/whxtelyy/payment-distribution-service/tree/dev)
 **Самый технически сложный проект.** Система мультивалютных переводов с фокусом на консистентность данных.
 * **Backend:** Реализовал строгую идемпотентность транзакций и обработку Race Conditions.
 * **Performance:** Внедрил кэширование курсов валют в Redis и фоновую обработку задач через Taskiq.
