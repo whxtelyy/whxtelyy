@@ -1,31 +1,48 @@
-<div style="background-color: #0d1117; color: #c9d1d9; padding: 15px; border-radius: 10px; font-size: 0.95em;">
-  
-[![Typing Banner](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=58a6ff&width=450&lines=Hello+👋)](https://git.io/typing-svg)
+# Hi 👋
+
+### 👨‍💻 Python Backend Engineer | Infrastructure Enthusiast
+Я специализируюсь на создании отказоустойчивых и производительных Backend-систем. Глубоко погружен в устройство Python, асинхронность, проектирование баз данных и алгоритмическую оптимизацию.
+
+* 🚀 **Current focus:** High-load systems, Idempotency patterns, and Microservices.
+* 🏆 **Hackathon Runner:** 4th & 5th places at major Russian hackathons (T1, Radiohack).
+* 🎓 **Education:** Software Engineering at UrFU (RTF).
 
 ---
-### 📫 <span style="color: #58a6ff">My contacts</span>  
+
+### 🛠 Stack & Tools
+| Category | Technologies |
+| --- | --- |
+| **Languages** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white) (Learning) |
+| **Backend** | ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![AsyncIO](https://img.shields.io/badge/-AsyncIO-white?style=flat-square&logo=python&logoColor=3776AB) ![Pytest](https://img.shields.io/badge/-Pytest-0E7FBF?style=flat-square&logo=pytest&logoColor=white) |
+| **Databases** | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white) |
+| **DevOps** | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white) |
+
+---
+
+### 📂 Featured Projects
+
+#### 💎 [Payment Distribution Service](https://github.com/whxtelyy/payment-distribution-service)
+**Самый технически сложный проект.** Система мультивалютных переводов.
+* **Key Features:** Идемпотентность транзакций, кэширование курсов валют в Redis, фоновые задачи через Taskiq.
+* **Ops:** Полная контейнеризация (Docker Compose), Healthchecks, ротируемое логирование.
+* **QA:** 100% покрытие бизнес-логики через Pytest.
+
+#### 📊 [Log Analyzer](https://github.com/whxtelyy/log_analyzer)
+REST API для агрегации и анализа системных логов.
+* Работа с большими объемами текстовых данных, фильтрация и структурирование выдачи.
+
+#### 🏆 Hackathon Solutions (XOREK Team)
+* **[Terraform LogViewer](https://github.com/kub1ce/Terraform-LogViewer_XOREK)** (T1 Hackathon, 5th place) — Визуализация сложных логов инфраструктуры.
+* **[Task Aggregator](https://github.com/kub1ce/task-aggregator-XOREK)** (Radiohack 2.0, 4th place) — Единое окно уведомлений (Jira, Trello, TG).
+
+---
+
+### 📈 GitHub Activities
 <p align="left">
-  <a href="https://t.me/whxtelyy" target="_blank">
-    <img src="https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=161b22" height="28">
-  </a>
+<img src="https://github-readme-stats.vercel.app/api?username=whxtelyy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Stats" height="150" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whxtelyy&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="150" />
 </p>
 
----
-### 🗂️ <span style="color: #58a6ff">My Projects</span>
-| Project | Description | Technologies |
-|---------|-------------|--------------|
-| [Log Analyzer](https://github.com/whxtelyy/log_analyzer) | REST API for managing and analyzing logs | [![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=161b22)](https://fastapi.tiangolo.com) [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=161b22)](https://www.python.org) |
-
----
-### 📊 <span style="color: #58a6ff">GitHub Stats</span>
-
-| Statistics | Languages |
-|------------|-----------|
-| ![Stats](https://github-readme-stats.vercel.app/api?username=whxtelyy&hide=contribs&theme=dark&cache_seconds=306) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whxtelyy&layout=compact&theme=dark&cache_seconds=300&card_width=420) |
-
----
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=whxtelyy&color=58a6ff&style=for-the-badge">
-</p>
-
-</div>
+### 📫 Connect with me
+[<img src="https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" height="30">](https://t.me/whxtelyy) 
+[<img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30">](mailto:isaev_saveliy_d@mail.ru)
