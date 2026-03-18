@@ -12,10 +12,10 @@
 ### 🛠 Stack & Tools
 | Category | Technologies |
 | --- | --- |
-| **Languages** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+| **Languages** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
 | **Backend** | ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![AsyncIO](https://img.shields.io/badge/-AsyncIO-white?style=flat-square&logo=python&logoColor=3776AB) ![Pytest](https://img.shields.io/badge/-Pytest-0E7FBF?style=flat-square&logo=pytest&logoColor=white) |
 | **Databases** | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white) |
-| **DevOps** | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+| **DevOps** | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) |
 
 ---
 
@@ -28,8 +28,10 @@
 * **QA:** 100% покрытие бизнес-логики через Pytest.
 
 #### 📊 [Log Analyzer](https://github.com/whxtelyy/log_analyzer)
-REST API для агрегации и анализа системных логов.
-* Работа с большими объемами текстовых данных, фильтрация и структурирование выдачи.
+**Сервис централизованного сбора и анализа системных логов в реальном времени.**
+* **Auth & Security:** Реализовал аутентификацию на базе **JWT** и разграничение прав для административных действий.
+* **Data Processing:** Спроектировал систему гибкой фильтрации (level, service, time range) и эндпоинты для агрегации статистики.
+* **Infrastructure:** Интегрировал **Alembic** для управления миграциями и подготовил **Docker**-конфигурацию для развертывания.
 
 #### 🏆 Hackathon Solutions (XOREK Team)
 * **[Terraform LogViewer](https://github.com/kub1ce/Terraform-LogViewer_XOREK)** (T1 Hackathon, 5th place) - Визуализация сложных логов инфраструктуры.
