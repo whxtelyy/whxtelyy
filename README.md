@@ -12,10 +12,10 @@
 ### 🛠 Stack & Tools
 | Category | Technologies |
 | --- | --- |
-| **Languages** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white) (Learning) |
+| **Languages** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 | **Backend** | ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![AsyncIO](https://img.shields.io/badge/-AsyncIO-white?style=flat-square&logo=python&logoColor=3776AB) ![Pytest](https://img.shields.io/badge/-Pytest-0E7FBF?style=flat-square&logo=pytest&logoColor=white) |
 | **Databases** | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white) |
-| **DevOps** | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white) |
+| **DevOps** | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
@@ -32,8 +32,8 @@ REST API для агрегации и анализа системных лого
 * Работа с большими объемами текстовых данных, фильтрация и структурирование выдачи.
 
 #### 🏆 Hackathon Solutions (XOREK Team)
-* **[Terraform LogViewer](https://github.com/kub1ce/Terraform-LogViewer_XOREK)** (T1 Hackathon, 5th place) — Визуализация сложных логов инфраструктуры.
-* **[Task Aggregator](https://github.com/kub1ce/task-aggregator-XOREK)** (Radiohack 2.0, 4th place) — Единое окно уведомлений (Jira, Trello, TG).
+* **[Terraform LogViewer](https://github.com/kub1ce/Terraform-LogViewer_XOREK)** (T1 Hackathon, 5th place) - Визуализация сложных логов инфраструктуры.
+* **[Task Aggregator](https://github.com/kub1ce/task-aggregator-XOREK)** (Radiohack 2.0, 4th place) - Единое окно уведомлений (Jira, Trello, TG).
 
 ---
 
@@ -44,5 +44,4 @@ REST API для агрегации и анализа системных лого
 </p>
 
 ### 📫 Connect with me
-[<img src="https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" height="30">](https://t.me/whxtelyy) 
-[<img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30">](mailto:isaev_saveliy_d@mail.ru)
+[<img src="https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" height="30">](https://t.me/whxtelyy)
