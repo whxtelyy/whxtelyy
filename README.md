@@ -167,6 +167,6 @@ Python Backend-разработчик, специализируюсь на **о�
 
 <div align="center">
 
-[Telegram](https://t.me/whxtelyy)
+[<img src="https://img.shields.io/badge/Telegram-161b22?style=for-the-badge&logo=telegram&logoColor=58a6ff&labelColor=0d1117">](https://t.me/whxtelyy)
 
 </div>
