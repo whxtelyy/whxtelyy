@@ -161,14 +161,12 @@ Python Backend-разработчик, специализируюсь на **о�
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=whxtelyy&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=39d6c7&sideLabels=8b949e&sideNums=ffffff&dates=8b949e" width="60%"/>
 
-<br><br>
-
-<img src="https://ghchart.rshah.org/58a6ff/whxtelyy" width="90%">
-
 </div>
 
 ---
 
 <div align="center">
+
+[Telegram](https://t.me/whxtelyy)
 
 </div>
