@@ -7,7 +7,6 @@
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=whxtelyy&style=flat-square&color=58a6ff&label=Profile+Views)
-[![Telegram](https://img.shields.io/badge/-Telegram-58a6ff?style=flat-square&logo=telegram&logoColor=white)](https://t.me/whxtelyy)
 
 </div>
 
