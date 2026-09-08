@@ -1,42 +1,182 @@
-## 👨‍💻 Python Backend
-Специализируюсь на разработке отказоустойчивых бэкенд-систем и микросервисной архитектуре. Погружен во внутреннее устройство Python (AsyncIO, GIL, Memory Management) и проектирование БД.
+<div align="center">
 
-* 🚀 **Текущий фокус:** Проектирование высоконагруженных систем, паттерны идемпотентности и финтех-решения.
-* 🏆 **Хакатоны:** Призер хакатонов (Т1 - 5 место, Радиохак 2.0 - 4 место).
-* 🎓 **Образование:** ИРИТ-РТФ УрФУ, Программная инженерия.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a2f2b,100:2ea043&height=150&section=header&text=whxtelyy&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Python%20Backend%20%7C%20Reliability%20by%20design&descAlignY=58&descSize=16"/>
 
----
+</div>
 
-## 🛠 Стек и Технологии
-| Категория | Инструменты |
-| --- | --- |
-| **Languages** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) |
-| **Backend** | ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![AsyncIO](https://img.shields.io/badge/-AsyncIO-white?style=flat-square&logo=python&logoColor=3776AB) ![Taskiq](https://img.shields.io/badge/-Taskiq-red?style=flat-square&logo=python&logoColor=white) ![Pytest](https://img.shields.io/badge/-Pytest-0E7FBF?style=flat-square&logo=pytest&logoColor=white) |
-| **Databases** | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white) |
-| **DevOps** | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![Alembic](https://img.shields.io/badge/-Alembic-white?style=flat-square&logo=python&logoColor=red) |
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=whxtelyy&style=flat-square&color=2ea043&label=Profile+Views)
+[![Telegram](https://img.shields.io/badge/-Telegram-2ea043?style=flat-square&logo=telegram&logoColor=white)](https://t.me/whxtelyy)
+
+</div>
 
 ---
 
-## 📂 Основные проекты
+### `system.principle`
 
-### 💎 [Payment Distribution Service](https://github.com/whxtelyy/payment-distribution-service)
-**Самый технически сложный проект.** Система мультивалютных переводов с фокусом на консистентность данных.
-* **Backend:** Реализовал строгую идемпотентность транзакций и обработку Race Conditions.
-* **Performance:** Внедрил кэширование курсов валют в Redis и фоновую обработку задач через Taskiq.
-* **Infrastructure:** Контейнеризация (Docker Compose), автоматические миграции (Alembic) и ротируемое логирование.
-* **Reliability:** 100% покрытие критических сценариев (переводы, ошибки конвертации) тестами Pytest.
-
-### 📊 [Log Analyzer](https://github.com/whxtelyy/log_analyzer)
-**Сервис централизованного сбора и анализа системных логов в реальном времени.**
-* **Security:** Интегрировал аутентификацию на базе JWT и ролевую модель доступа для администрирования.
-* **Data:** Спроектировал систему сложной фильтрации и агрегации статистики по логам.
-* **Maintenance:** Реализовал Retention Policy для автоматической очистки устаревших записей в БД.
-
-### 🏆 Решения с хакатонов (Команда XOREK)
-* **[Terraform LogViewer](https://github.com/kub1ce/Terraform-LogViewer_XOREK)** (Хакатон Т1) - Парсинг и визуализация логов инфраструктуры Terraform.
-* **[Task Aggregator](https://github.com/kub1ce/task-aggregator-XOREK)** (Радиохак 2.0) - Единое окно уведомлений для корпоративных сервисов (Jira, Trello, TG).
+> Система должна оставаться консистентной даже тогда, когда всё вокруг падает.
+> Именно поэтому меня интересуют идемпотентность, гонки состояний и отказоустойчивость — а не просто "работает на моей машине".
 
 ---
 
-## 📫 Связь
-[<img src="https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" height="30">](https://t.me/whxtelyy) 
+### `about.me`
+
+Python Backend-разработчик, специализируюсь на **отказоустойчивых бэкенд-системах** и **микросервисной архитектуре**.
+Погружаюсь во внутреннее устройство Python (AsyncIO, GIL, Memory Management) и проектирование БД — не потому что модно, а потому что без этого сложно строить системы, которые не разваливаются под нагрузкой.
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+**🎯 Фокус**
+Высоконагруженные системы, паттерны идемпотентности, финтех-решения
+
+</td>
+<td width="33%" valign="top">
+
+**🏆 Хакатоны**
+Т1 — 5 место
+Радиохак 2.0 — 4 место
+
+</td>
+<td width="33%" valign="top">
+
+**🎓 Образование**
+ИРИТ-РТФ УрФУ
+Программная инженерия
+
+</td>
+</tr>
+</table>
+
+---
+
+### `stack.core`
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+**Language & DB**
+
+<img src="https://img.shields.io/badge/Python-161b22?style=for-the-badge&logo=python&logoColor=2ea043&labelColor=0d1117">
+<img src="https://img.shields.io/badge/PostgreSQL-161b22?style=for-the-badge&logo=postgresql&logoColor=2ea043&labelColor=0d1117">
+<img src="https://img.shields.io/badge/Redis-161b22?style=for-the-badge&logo=redis&logoColor=2ea043&labelColor=0d1117">
+<img src="https://img.shields.io/badge/SQLAlchemy-161b22?style=for-the-badge&logo=sqlalchemy&logoColor=2ea043&labelColor=0d1117">
+
+</td>
+<td valign="top" width="50%">
+
+**Backend & Infra**
+
+<img src="https://img.shields.io/badge/FastAPI-161b22?style=for-the-badge&logo=fastapi&logoColor=2ea043&labelColor=0d1117">
+<img src="https://img.shields.io/badge/AsyncIO-161b22?style=for-the-badge&logo=python&logoColor=2ea043&labelColor=0d1117">
+<img src="https://img.shields.io/badge/Docker-161b22?style=for-the-badge&logo=docker&logoColor=2ea043&labelColor=0d1117">
+<img src="https://img.shields.io/badge/Pytest-161b22?style=for-the-badge&logo=pytest&logoColor=2ea043&labelColor=0d1117">
+
+</td>
+</tr>
+</table>
+
+---
+
+### `projects.production`
+
+<table>
+<tr>
+<td width="100%" valign="top">
+
+**💎 Payment Distribution Service**
+*Самый технически сложный проект*
+
+Система мультивалютных переводов с фокусом на консистентность данных.
+
+- Строгая идемпотентность транзакций, обработка Race Conditions
+- Кэширование курсов валют в Redis + фоновая обработка через Taskiq
+- Docker Compose, автоматические миграции Alembic, ротируемое логирование
+- 100% покрытие критических сценариев тестами Pytest
+
+`Python` `FastAPI` `PostgreSQL` `Redis` `Taskiq` `Docker`
+
+<a href="https://github.com/whxtelyy/payment-distribution-service">
+<img src="https://img.shields.io/badge/OPEN_REPOSITORY-161b22?style=for-the-badge&logo=github&logoColor=2ea043&labelColor=0d1117">
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="100%" valign="top">
+
+**📊 Log Analyzer**
+
+Сервис централизованного сбора и анализа системных логов в реальном времени.
+
+- JWT-аутентификация и ролевая модель доступа
+- Сложная фильтрация и агрегация статистики по логам
+- Retention Policy для автоматической очистки устаревших записей
+
+`Python` `FastAPI` `PostgreSQL` `JWT`
+
+<a href="https://github.com/whxtelyy/log_analyzer">
+<img src="https://img.shields.io/badge/OPEN_REPOSITORY-161b22?style=for-the-badge&logo=github&logoColor=2ea043&labelColor=0d1117">
+</a>
+
+</td>
+</tr>
+</table>
+
+---
+
+### `projects.hackathons` — team XOREK
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**Terraform LogViewer**
+Т1 · 5 место
+
+Парсинг и визуализация логов инфраструктуры Terraform.
+
+<a href="https://github.com/kub1ce/Terraform-LogViewer_XOREK">
+<img src="https://img.shields.io/badge/VIEW-161b22?style=for-the-badge&logo=github&logoColor=2ea043&labelColor=0d1117">
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+**Task Aggregator**
+Радиохак 2.0 · 4 место
+
+Единое окно уведомлений для корпоративных сервисов (Jira, Trello, TG).
+
+<a href="https://github.com/kub1ce/task-aggregator-XOREK">
+<img src="https://img.shields.io/badge/VIEW-161b22?style=for-the-badge&logo=github&logoColor=2ea043&labelColor=0d1117">
+</a>
+
+</td>
+</tr>
+</table>
+
+---
+
+### `github.stats`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=whxtelyy&show_icons=true&hide_border=true&bg_color=0d1117&title_color=2ea043&icon_color=2ea043&text_color=8b949e&hide=stars" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=whxtelyy&hide_border=true&background=0d1117&stroke=2ea043&ring=2ea043&fire=2ea043&sideLabels=8b949e&sideNums=ffffff&dates=8b949e" width="48%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+**📫 На связи:** [Telegram](https://t.me/whxtelyy)
+
+<sub>Строю системы, которые не падают тогда, когда падать нельзя.</sub>
+
+</div>
