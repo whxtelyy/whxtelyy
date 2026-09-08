@@ -7,6 +7,7 @@
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=whxtelyy&style=flat-square&color=58a6ff&label=Profile+Views)
+[![Telegram](https://img.shields.io/badge/-Telegram-58a6ff?style=flat-square&logo=telegram&logoColor=white)](https://t.me/whxtelyy)
 
 </div>
 
@@ -158,8 +159,11 @@ Python Backend-разработчик, специализируюсь на **о�
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=whxtelyy&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=39d6c7&text_color=8b949e&hide=stars" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=whxtelyy&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=39d6c7&sideLabels=8b949e&sideNums=ffffff&dates=8b949e" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=whxtelyy&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=39d6c7&sideLabels=8b949e&sideNums=ffffff&dates=8b949e" width="60%"/>
+
+<br><br>
+
+<img src="https://ghchart.rshah.org/58a6ff/whxtelyy" width="90%">
 
 </div>
 
